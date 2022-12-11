@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maria MVC", "Maria MVC.csproj", "{0579ECC0-D52F-4C3F-86C6-FC3E4426E24E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0579ECC0-D52F-4C3F-86C6-FC3E4426E24E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579ECC0-D52F-4C3F-86C6-FC3E4426E24E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579ECC0-D52F-4C3F-86C6-FC3E4426E24E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579ECC0-D52F-4C3F-86C6-FC3E4426E24E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EADB622F-3948-4DC2-BEE1-5505C576DE4A}
+	EndGlobalSection
+EndGlobal
